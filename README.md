@@ -1,7 +1,11 @@
 # WeatherNow
 O objetivo do projeto é exibir a temperatura, humidade e pressão atual de 3 cidades com base nas informações fornecidas pela API https://openweathermap.org/api.
 
-## Project setup
+## Requisitos
+~node
+~npm
+
+## Getting started
 ```
 npm install
 ```
