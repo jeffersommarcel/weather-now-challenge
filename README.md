@@ -3,6 +3,7 @@ O objetivo do projeto é exibir a temperatura, humidade e pressão atual de 3 ci
 
 ## Getting started
 ```
+#clone project
 git clone git@github.com:jeffersommarcel/weather-now-challenge.git
 ```
 
