@@ -1,4 +1,4 @@
-# weather-now-challenge
+# WeatherNow
 
 ## Project setup
 ```
