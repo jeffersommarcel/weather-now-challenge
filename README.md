@@ -9,12 +9,12 @@ O objetivo do projeto é exibir a temperatura, humidade e pressão atual de 3 ci
 
 ```
 # install dependencies
-npm install
+> npm install
 ```
 
 ```
 # Compiles and hot-reloads for development
-npm run serve
+> npm run serve
 ```
 
 ### Compiles and minifies for production
